@@ -23,7 +23,6 @@ marisol@terminal:~$ cat about_me.txt
 > Information Engineering (Data Science) student — Universidad del Pacífico, 9th semester.
 > Obsessed with Statistics, Machine Learning, data analysis & Computer Science.
 > Here to turn raw, messy data into signal — and to keep breaking things until I understand them.
-> 🥈 Silver Award — China–LatAm Youth Challenge to Alleviate Poverty 2025 (Tsinghua University research program)
 
 ```
 marisol@terminal:~$ nmap -sV interests
@@ -39,11 +38,9 @@ PORT     STATE   SERVICE
 
 <br>
 
-```
-marisol@terminal:~$ ls -la ./tech_stack/
-```
-
-<div align="center">
+<details>
+<summary><b>$ ls -la ./tech_stack/</b>  <i>(click to expand)</i></summary>
+<br>
 
 **Languages**
 
@@ -75,22 +72,41 @@ marisol@terminal:~$ ls -la ./tech_stack/
 ![Excel](https://img.shields.io/badge/-Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=39FF14)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=39FF14)
 
-</div>
+</details>
 
 <br>
 
 ```
-marisol@terminal:~$ ./run_stats.sh --theme=matrix
+marisol@terminal:~$ ./contribution_graph.sh --eat
 ```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarisolVizu/MarisolVizu/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/MarisolVizu/MarisolVizu/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<sub>⚠️ esto se ve vacío hasta que actives el workflow de abajo (una sola vez) — dura ~1 min en generarse</sub>
+
+<br>
+
+<details>
+<summary><b>$ ./run_stats.sh --theme=matrix</b>  <i>(click to expand)</i></summary>
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarisolVizu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarisolVizu&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarisolVizu&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165" />
-
 </div>
+
+<sub>si no cargan, es el servicio público saturado — refrescá en unos minutos.</sub>
+
+</details>
 
 <br>
 
