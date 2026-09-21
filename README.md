@@ -1,56 +1,45 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────┐
-│  guest@marisolvizu:~$ ./init_profile.sh        │
-└──────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=header&text=~/marisol&fontColor=39FF14&fontAlignY=55&fontSize=28&fontFamily=monospace" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=whoami;Marisol+Vizurraga+Rivera;Data+%26+ML+enthusiast;compiling+insights+from+raw+data..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami;access_granted...;loading+interests...;data+%2B+ml+%2B+curiosity" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=MarisolVizu&label=connections&color=39FF14&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/MarisolVizu?label=follow&style=flat-square&color=39FF14&labelColor=0d1117)
 
 </div>
 
 <br>
 
-```bash
+```
+marisol@terminal:~$ whoami
+```
+```
+uid=1337(marisol) gid=1337(students) groups=data-science,machine-learning,stats
+```
+
+```
 marisol@terminal:~$ cat about_me.txt
 ```
-
-> Information Engineering (Data Science) student — **Universidad del Pacífico**, 9th semester.
-> Passionate about Statistics, Machine Learning, data analysis and Computer Science.
-> Currently turning messy data into decisions at **EY**, after passing through banking &
-> consulting (**AFP Integra SURA**, **BCP**).
-> 🌎 Silver Award, China–LatAm Youth Challenge to Alleviate Poverty 2025 (Tsinghua University).
-
-<br>
-
-```bash
-marisol@terminal:~$ ps -ef | grep experience
-```
+> Information Engineering (Data Science) student — Universidad del Pacífico, 9th semester.
+> Obsessed with Statistics, Machine Learning, data analysis & Computer Science.
+> Here to turn raw, messy data into signal — and to keep breaking things until I understand them.
+> 🥈 Silver Award — China–LatAm Youth Challenge to Alleviate Poverty 2025 (Tsinghua University research program)
 
 ```
-[2025-09 → NOW ]  EY (Ernst & Young)              Analytics Staff
-                  └─ Forensic Data Analytics: fraud/anomaly detection,
-                     Python + Computer Vision + Azure, full-stack findings dashboards
-
-[2025-02 → 2025-09]  AFP Integra SURA              Analytics Intern
-                  └─ Power BI exec dashboards (churn, commercial performance)
-                     GCP-based data flow automation
-
-[2024-02 → 2025-02]  BCP (Banco de Crédito)        IT, Data & Ops Strategy Intern
-                  └─ Data architecture + Power BI KPI dashboards
-                     Process automation with Python & Power Automate
-
-[2024-03 → NOW ]  180 Degrees Consulting UP        Data & Analytics Coordinator
-                  └─ Social scraping automation, Streamlit + LLM interfaces
+marisol@terminal:~$ nmap -sV interests
+```
+```
+PORT     STATE   SERVICE
+443/tcp  open    machine-learning
+143/tcp  open    statistics
+122/tcp  open    data-mining
+80/tcp   open    computer-science
+22/tcp   open    curiosity.exe
 ```
 
 <br>
 
-```bash
+```
 marisol@terminal:~$ ls -la ./tech_stack/
 ```
 
@@ -90,7 +79,7 @@ marisol@terminal:~$ ls -la ./tech_stack/
 
 <br>
 
-```bash
+```
 marisol@terminal:~$ ./run_stats.sh --theme=matrix
 ```
 
@@ -105,15 +94,13 @@ marisol@terminal:~$ ./run_stats.sh --theme=matrix
 
 <br>
 
-```bash
+```
 marisol@terminal:~$ cat status.log
 ```
-
 ```
-[STATUS]  currently_learning  : advanced ML techniques, cloud architectures, LLM integrations
-[STATUS]  open_to             : research, data science & AI collaborations
-[STATUS]  projects            : 🚧 building — public repos coming soon
-[STATUS]  ask_me_about        : Python, forensic data analytics, dashboards, ML pipelines
+[STATUS]  learning     : advanced ML techniques, cloud architectures, LLM integrations
+[STATUS]  building     : 🚧 public repos loading — check back soon
+[STATUS]  ask_me_about : Python, statistics, dashboards, ML pipelines
 ```
 
 <br>
@@ -121,9 +108,11 @@ marisol@terminal:~$ cat status.log
 <div align="center">
 
 ```
-$ echo "still compiling my next project..."
+$ sudo rm -rf doubts/ --no-preserve-root
 ```
 
-<sub>Information Engineer in progress · Data & AI · Lima, Perú 🇵🇪</sub>
+<sub>Information Engineer in progress · Data & AI · Perú 🇵🇪</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=footer" />
 
 </div>
