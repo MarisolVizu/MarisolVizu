@@ -81,24 +81,6 @@ PORT      STATE   SERVICE
 
 ---
 
----
-
-<div align="center">
-
-### `git log --oneline -2`
-
-<a href="https://github.com/MarisolVizu?tab=repositories&sort=updated">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MarisolVizu&limit=2&theme=algolia&combine_all_yearly_contributions=false&hide_border=true" alt="repos recientes" />
-</a>
-
-<br>
-
-<sub>📌 mostrando tus repos más recientes · se actualiza solo cuando subís algo nuevo</sub>
-
-</div>
-
----
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" width="14"/> **`tail -f status.log`**
 
 ```log
