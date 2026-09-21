@@ -81,14 +81,19 @@ PORT      STATE   SERVICE
 
 ---
 
+---
+
 <div align="center">
 
-### `./contribution_graph.sh --eat`
+### `git log --oneline -2`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarisolVizu/MarisolVizu/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/MarisolVizu/MarisolVizu/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<a href="https://github.com/MarisolVizu?tab=repositories&sort=updated">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MarisolVizu&limit=2&theme=algolia&combine_all_yearly_contributions=false&hide_border=true" alt="repos recientes" />
+</a>
+
+<br>
+
+<sub>📌 mostrando tus repos más recientes · se actualiza solo cuando subís algo nuevo</sub>
 
 </div>
 
@@ -127,3 +132,4 @@ marisol@github:~$ sudo rm -rf doubts/ --no-preserve-root
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0d1117&height=80&section=footer&reversal=true" width="100%"/>
 
 </div>
+
